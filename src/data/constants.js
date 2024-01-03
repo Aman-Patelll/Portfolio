@@ -238,7 +238,7 @@ export const projects = [
 		],
 		category: "web app",
 		github: "https://github.com/Aman-Patelll/courseBundler",
-		webapp: "https://coursebundler-dun.vercel.app/",
+		webapp: "https://coursebundler01.vercel.app/",
 	},
 	{
 		id: 0,
