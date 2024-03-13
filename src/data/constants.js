@@ -221,7 +221,7 @@ export const projects = [
 		description:
 			"Course Bundler a E-learning platform based on Subscription Model. • Key Features are buy Subscription, cancel Subscription, browse all courses, request for course, contact us, registration, change photo & profile, forget password, add to playlist, remove from playlist etc. • Admin DashBord where Admin can create & delete course, add & remove lectures into a course, see all user information, change role, remove user, get all courses & there lectures etc. • ONLY SUBSCRIBERS ACCESS COURSES",
 		image:
-			"https://lh3.googleusercontent.com/pw/ABLVV84pfeTw4iOUOlax_0wfVASuEedIBj4TpuKlFQ9M3EkEnJt9BIYofFpo70uVmyseBp9w-5hTL9I3JojJIaP6uCz3nNTvkueciaBrZS-6zQpM6B4wd0Iuoj2c4p0dnuv6tcpbkd5clFQrzIcpJ3xMv69-dJz_cp4aV-HU_NpqlulZlyD0c3PMBdqKvq-nTXepxhmECTbtfRceAPM5ArRK9InOEuVjJgOyHYW9owGtAtoBMTUEurbcDVp9Kv_U2vzq0UG5kh3H1qRfVEBhJ57j8miv9SXy0xFMxLdDNdwQ4MvVznkejEZ1Hd6MYeR94yCsQz8aEa2jk1U-qSgh-3eEJQDVKYs4xlf9fhOmQR1Nc8eNcuwaNny2AmpSzhjQWTIzG4gKwRQN3bdlWZuC7-TsKOxlemFiaMR4IqQpKUEWvc4GKsWPadNisML5z66ctX9rjVA9NW7w3k3q28he9_gZXf__Ex2DfggBMsfyVLVoyusgKoZ6TKTlyJboqlLllhNHpn9NfbUEidmN62Aoj4xlLYpcfW-uOd_ePFbtLp2fA48-m8b37JU0aDZh64H0OoHGS0SFwzIhNXKET3Ctl85FlH4O6mfv-mGrvvsBzERWvHyO4vjeSsN-XyWZvuwp6r5Hj7r36U1sZoQQMDU715GAWut9EMXXzsTt3Hx2hCMzRl04cgncGVkZ7lxd0kKaYcbiuIDGnYsShx6OZo-ci2DOWU06dAenYTIXDCfFQUAOgvp8Exk3DI7MWu6CZiyf-ywCESvm2QZ3ruzDidBC-sSTzUOcoSR_JX1eWmol5OTjZUTlOnBOd2-b64tTmQxUXC0SGv6G7zhwWFTrDfG0AbZC6E6l8e2z0HQzndZvWYK3lsshDEoiRcxAV-hqMJMOh7kqyLSs3A=w864-h864-s-no-gm?authuser=0",
+			"https://res.cloudinary.com/dz7esq5ru/image/upload/v1710342345/Untitled_design_1_s8ccy6.gif",
 		tags: [
 			"JavaScript",
 			"React",
@@ -247,7 +247,7 @@ export const projects = [
 		description:
 			"Let’s Chat a Full Stack Real Time Chatting App Using React JS, Node JS, Express JS, MongoDB, Chakra-ui, socket.io & JavaScript. • Key Features are one to one chat, group chat, authentication, real time chatting with typing indicator, search users, create group chats, add & remove user from group, notification, view other user profile",
 		image:
-			"https://lh3.googleusercontent.com/pw/ABLVV870CuXlOA1MLKhJlIShdai0mCbSih3d0ES3HLOBau1zKRtJqvOqLQlguD47VHseJtZbbgSHCTuL7zCPDw8_LDTjsmKwunQ8bUAGUsVmu81OdkKD7A6jdbBqs2Dv54cg5GVBN9XhHY5kR7H2eAbJFqUGdg9XDPpEJDfu77VguhUqJI6PL-lNGpHOL74lv39aWDEMXXOXrSPNoTT_RkaHWQBFyyyN-fpxQrHEBPjn24GmA_rcvWFbRttz4oucxwNbc_8q2XJ7WWQlqVWLa9_nCq0_NDNW5cN0-u_cv1YLC70HhZfUPkLQv9_ZbOVPPp4vGfAUG_jKqSVQyn4y8C0Xi-aGQwZCRl1XQ-tvckKoqbzuxpZICk4LJ1VG7Ltoz7H7AM3z2H5saqz5Vxhm8M-ampBknTy_XcyP8Ri0pb60VyLEnI7mvYveL98t2GIyBiPkZLDqlsL57diHhLD9Bgc4_dBoH7adIOZG-ZaeN0A1nGqrJLv7HBVjfqDk6aP4tfRigUOFQ5uElgRgHbzeysoYWzq8D2mKMH4RpVg1I8Toh8LUzQFOH1pSGA1jl6VkFM9_-0c3Z5r3O9vuNsQFjcqrZ12rv3UelgmmRpPe-qqZ4do3lFut13OJiG4B6gIWoNPsluIrxHFSiXL41hkDHEes91iDSfM6jeuVuzI1zKbj8f-rg3juA30lCMR0_bTD8oVp4SXMQbcN2yaWutnfG_fAFSw6wc_GgF0qwFURQPdr2oEniDan-XqsCZHrYaCpoHTi-Z5WOggSKynMce1SsRc4USmbaVMCaylPxqbaW0Qr7OciNVFZjBV-gM_Q3YXnB0HvgF9L1zBrOZbEicOsvm7QN0rDBg_sFdt18aILARPQvO4aI1AfTNNMsNMvtDDkhIHHxkFh_A=w864-h864-s-no-gm?authuser=0",
+			"https://res.cloudinary.com/dz7esq5ru/image/upload/v1710342355/Untitled_design_2_cpyjhr.gif",
 		tags: [
 			"React JS",
 			"Node JS",
@@ -268,7 +268,7 @@ export const projects = [
 		description:
 			" Website Element: Navigation bar, sidebar and notifications popup, stories, create post section, feeds or posts, messages and friend requests. ",
 		image:
-			"https://lh3.googleusercontent.com/pw/ABLVV853o_3OXMVENys6BCUVwELAgp2kK4u0efPUKzW4kHHnKcwvyW_rjZYWLP6hHUftel1Hiq6ZAXGi-pJFQXAGVD_FfLq6rpOPSr1T_K4-GrhupiTBNB27sWG7-_x9ol4MmGftgeELwD8sdHJ6Hg8AYnI_1UjNgZwiJOD5I4F-auKIHUCKGfyoGGxlxY4vN5MtBn2wXitg1nqAwwup9kzzCum4MzyCF1RjYntQhcQKuoXVTtGuyaLkyfFGOowOqxmzuHXRmQGmEg3PMvfw7RlMcdwu-YUZ1eK3Yhgc_qVAwzQEzz2QQkOJyz1fQI_7oIIyKyd4pApLodoN6pbmC3aJxqlVNCm1Zlg7m-fiM7aas1b-DnoGp34XZOhR-xsffXwoe4T2UO4N3tqw805tziGnFo75XNEzmh5JJT37NazQ6-lxIqQ8VUROcYIfDlg9EjI6ipXqgbCupiHLfQ5bDLito8oixlx3DCiBPM2wguZ3eKNpMFXVVn6qnVnzQXsBUNUDUjxm3dzbN99MuHSy0jqrHARO2MN6qqvGWJ8BZBDbIA8cSZg3iL3zA8D1MoULUdz7EqIoRRI4ytQPocVbfBsEnJyHPDYgGM_aIxRO5MzT9rmEIIIsBRsMDqRmeJgaexlpvtJ2lUCpRuZmP9ghhiPvuujDwiG10K1NwiJZDgjgfUberQjHVQs7M8sQlbe6v2DbzEq2nnXBzfufhnAGS-pI5NwVqAnEP95xCa34mf_m-sVeG6MZ_N-HVHmFhW4HP8rDAceXrlOSk6H6fGURs49w99hVqbgJ2H56C13kBmTrexX6WHtJlH5Uxz1L1hir1oweKucX4hYzOG57A7j-yFu5w-IGBnvf_R51sD0BTsdd1np2euXyu-eZ3l9bW8FqUWLrhpkPcA=w864-h864-s-no-gm?authuser=0",
+			"https://res.cloudinary.com/dz7esq5ru/image/upload/v1710342364/Untitled_design_3_zdkrjl.gif",
 		tags: ["HTML", "CSS", "JavaScript"],
 		category: "web app",
 		github: "https://github.com/Aman-Patelll/Responsive-Social-Media",
